@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+ <meta charset="utf-8">
+ <STYLE>
+ .KALK{MARGIN:0 10%;}
+ .KALK .BUTT{MARGIN:4PX;WIDTH:96PX;HEIGHT:50PX;FONT-WEIGHT:BOLD;}
+ </STYLE>
+ </HEAD>
+<BODY>
+<FORM NAME="KAL" class="KALK">
+ <TABLE BORDER=2; WIDTH=460; HEIGHT=300; STYLE="BACKGROUND:#F08080;">
+ <TR>
+ <TD HEIGHT=60; STYLE="BACKGROUND:#F08080;">
+ <INPUT TYPE="text" NAME="Input" Size="55"> <SPAN STYLE="COLOR:#B22222">&nbsp;<I></I></SPAN>
+ <br>
+ </TD>
+ </TR>
+ <TR>
+ <TD>
+ <INPUT CLASS="BUTT" TYPE="button" NAME="seven" VALUE=" 7 " OnClick="KAL.Input.value += '7'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="eight" VALUE=" 8 " OnCLick="KAL.Input.value += '8'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="nine" VALUE=" 9 " OnClick="KAL.Input.value += '9'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="plus" VALUE=" + " OnClick="KAL.Input.value += ' + '">
+ <br>
+ <INPUT CLASS="BUTT" TYPE="button" NAME="four" VALUE=" 4 " OnClick="KAL.Input.value += '4'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="five" VALUE=" 5 " OnCLick="KAL.Input.value += '5'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="six" VALUE=" 6 " OnClick="KAL.Input.value += '6'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="minus" VALUE=" - " OnClick="KAL.Input.value += ' - '">
+ <br>
+ <INPUT CLASS="BUTT" TYPE="button" NAME="one" VALUE=" 1 " OnClick="KAL.Input.value += '1'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="two" VALUE=" 2 " OnCLick="KAL.Input.value += '2'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="three" VALUE=" 3 " OnClick="KAL.Input.value += '3'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="times" VALUE=" x " OnClick="KAL.Input.value += ' * '">
+ <br>
+ <INPUT CLASS="BUTT" TYPE="button" NAME="clear" VALUE=" C " OnClick="KAL.Input.value = ''">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="zero" VALUE=" 0 " OnClick="KAL.Input.value += '0'">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="DoIt" VALUE=" = " OnClick="KAL.Input.value = eval(KAL.Input.value)">
+ <INPUT CLASS="BUTT" TYPE="button" NAME="div" VALUE=" / " OnClick="KAL.Input.value += ' / '">
+ <br>
+ </TD>
+ </TR>
+ </TABLE>
+</FORM>
+</BODY>
+</HTML>

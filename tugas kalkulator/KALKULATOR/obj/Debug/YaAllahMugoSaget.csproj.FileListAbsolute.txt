@@ -1,0 +1,18 @@
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.exe.config
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.exe
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.pdb
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.csprojAssemblyReference.cache
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.Form1.resources
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.Properties.Resources.resources
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.csproj.GenerateResource.cache
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.exe
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.pdb
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.exe.config
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.exe
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\bin\Debug\YaAllahMugoSaget.pdb
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.csprojAssemblyReference.cache
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.Form1.resources
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.Properties.Resources.resources
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.csproj.GenerateResource.cache
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.exe
+E:\Materi Semester 4\PEMROGRAMAN VISUAL\YaAllahMugoSaget - Salin\YaAllahMugoSaget - Salin\YaAllahMugoSaget\obj\Debug\YaAllahMugoSaget.pdb

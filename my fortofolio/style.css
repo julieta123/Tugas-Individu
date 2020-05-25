@@ -1,0 +1,123 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	font-family: sans-serif;
+	baground-color:#DEB887;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background : linear-gradient(to right, #A0522D, #F4A460);
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-buttom: 3px solid #F4A460;
+}
+
+header #branding {
+	float: left;
+}
+
+header #branding h1{
+	margin: 0;
+}
+
+header nav{
+	float: right;
+	margin-top:10px;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+header a{
+	color: #000000;
+	text-shadow: 2px 2px 5px #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+header #branding, header .active a{
+	color: #000000;
+	text-shadow: 2px 2px 5px #fff;
+	font- weight: bold;
+}
+
+header a: hover{
+	color: #F4A460;
+	font-weight: bold;
+}
+
+#showcase{
+	<img src="foto.jpg" width="100">
+	min-height: 400px;
+	background:url(gambar.jpg) 0px -0px;
+	text-align: right;
+}
+
+#showcase h2{
+	margin-top: 120px;
+	font-size: 40px;
+	margin-buttom: 10px;
+	text-shadow: 2px 2px 5px #fff;
+}
+
+#showcase p{
+	font-size: 23px;
+	text-shadow: 2px 2px 5px #fff;
+}
+
+#newsletter{
+	panding: 15px;
+	background : linear-gradient(to right, #F4A460, #A0522D);
+}
+
+#newsletter h2{
+	margin-top: 30px;
+	font-size: 30px;
+	margin-buttom: 10px;
+	text-shadow: 2px 2px 5px #fff;
+}
+
+#newsletter p{
+	font-size: 20px;
+	text-shadow: 2px 2px 5px #fff;
+}
+
+#boxes{
+	margin-top: 20px;
+	background : linear-gradient(to right, #A0522D, #F4A460);
+}
+
+#boxes .box{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10 px;
+	text-shadow: 2px 2px 5px #fff;
+}
+
+footer{
+	padding: 20px;
+	margin-top: 20px;
+	background : linear-gradient(to right, #F4A460, #A0522D);
+}
+
+
+	
+
